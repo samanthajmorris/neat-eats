@@ -30,6 +30,9 @@ Due to its ability to monitor wireless frequencies, the Pi Zero W can be easily 
 ## The Algorithm
 ![The System.](resources/RaspberryPi-Flowchart-2.png "The Algorithm.")
 
+## The Trendline Figure
+![TheTrndline.](resources/Graph.png "The Trendline.")
+
 ## The App
 ### Screenshot 1
 ![Iphone-1.](resources/iphone-1.png "Iphone1")
