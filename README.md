@@ -32,6 +32,8 @@ https://www.researchgate.net/publication/314361145_A_Study_of_MAC_Address_Random
 ![The System.](resources/RaspberryPi-Flowchart-2.png "The Algorithm.")
 
 ## The App
+### Screenshot 1
 ![Iphone-1.](resources/iphone-1.png "Iphone1")
+### Screenshot 2
 ![Iphone-2.](resources/iphone-2.png "Iphone2")
 
